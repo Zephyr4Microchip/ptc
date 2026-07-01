@@ -8,7 +8,12 @@ Enhance your product’s user interface by replacing mechanical push buttons wit
 - [Tuning Guide](https://developerhelp.microchip.com/xwiki/bin/view/applications/touch/tuning-sensors-guide/)
 - [User Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/QTouch-Modular-Library-PTC-UG-DS40001986E.pdf)
 
+## Add-on boards
+- [QT7 Xplained Pro Extension Kit](https://www.microchip.com/en-us/development-tool/atqt7-xpro)
+- [Curiosity Nano Touch Adapter](https://www.microchip.com/en-us/development-tool/ac80t88a)
+
 ## Supported Device
 | Sl.No. | Device | evk |
-| :--------: | :--------: | :-------- |
+| :--------: | :-------- | :-------- |
 | 1.  | PIC32CM_JH  | 1. [Curiosity Pro Evaluation Kit](https://www.microchip.com/en-us/development-tool/ev81x90a) <br> 2. [Curiosity Nano+ Touch Evaluation Kit](https://www.microchip.com/en-us/development-tool/ev29g58a) |
+| 2.  | PIC32CM_PL10 | [Curiosity Nano Evaluation Kit](https://www.microchip.com/en-us/development-tool/ev10p22a) |
